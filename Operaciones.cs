@@ -9,9 +9,9 @@ namespace Aerolinea
 
         //Atributos (Propiedades)
 
-        public int pais_num { set; };
-        public int pais_num2 { set; };
-        public int pais_num3 { set; };
+        public string pais_num { set; };
+        public string pais_num2 { set; };
+        public string pais_num3 { set; };
 
         public int viajeros_frecuentes { set; };
 
